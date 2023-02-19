@@ -135,7 +135,7 @@
                     "type": "panel",
                     "anchor_from": "top_middle",
                     "anchor_to": "top_middle",
-                    "size": [ 100, "100% - 70px" ],
+                    "size": [ 90, "100% - 84px" ],
                     "offset": [ 0, 23 ],
                     "layer": 50,
                     "controls": [
