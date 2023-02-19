@@ -1,4 +1,5 @@
 # Tab Key Playerlist UI
+![ダウンロード](https://img.shields.io/github/downloads/Gotemba912/Tabkey_Playerlist_UI/total?style=plastic)  
 このマイクラ統合版用リソースパックは、  
 HUDでTabキーを押すと、プレイヤーリストを表示することができます。
 ## 操作
