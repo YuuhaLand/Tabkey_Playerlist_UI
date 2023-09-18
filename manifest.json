@@ -1,18 +1,18 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Tab Key Playerlist UI",
-    "description": "Tab key player list like Java Edition.\nCreated by Yuka0745",
-    "version": [ 1, 0, 0 ],
-    "uuid": "8ddc5699-a986-4dfa-ba91-6896bc308c4f",
+    "name": "Tab Key Playerlist UI v1.0.1",
+    "description": "Tab key player list like Java Edition.\nby Yuka0745",
+    "version": [ 1, 0, 1 ],
+    "uuid": "3f780faf-9d59-4ad1-94d3-3d718cf15fcb",
     "min_engine_version": [ 1, 13, 0 ]
   },
   "modules": [
     {
       "type": "resources",
       "description": "",
-      "version": [ 1, 0, 0 ],
-      "uuid": "bf7072a6-837e-4c89-8ad1-ac811773c304"
+      "version": [ 1, 0, 1 ],
+      "uuid": "7d94c42c-b7f7-4d45-acac-e1850b25c03c"
     }
   ]
 }
